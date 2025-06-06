@@ -28,10 +28,10 @@ This project implements a real-time gesture-based system volume controller using
 ## 🖥️ Demo
 
 ### 🔊 Volume Increase Example
-![Volume Increase](images/volume%20increaser.png)
+![Volume Increase](images/volume%20increasre.PNG)
 
 ### 🔉 Volume Decrease Example
-![Volume Decrease](images/volume%20decrease.png)
+![Volume Decrease](images/volume%20decrease.PNG)
 
 ---
 
