@@ -35,9 +35,3 @@ This project implements a real-time gesture-based system volume controller using
 
 ---
 
-## 🛠️ Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/gesture-volume-control.git
-   cd gesture-volume-control
