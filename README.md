@@ -27,8 +27,11 @@ This project implements a real-time gesture-based system volume controller using
 
 ## 🖥️ Demo
 
-![Demo Screenshot](path/to/your/screenshot.png)  
-*A live webcam feed with volume level bar changing as the user adjusts finger distance.*
+### 🔊 Volume Increase Example
+![Volume Increase](images/volume%20increaser.png)
+
+### 🔉 Volume Decrease Example
+![Volume Decrease](images/volume%20decrease.png)
 
 ---
 
